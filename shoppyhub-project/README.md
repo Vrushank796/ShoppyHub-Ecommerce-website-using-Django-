@@ -1,6 +1,6 @@
 As part of my software development experience, I worked on an E-commerce project developed using Django and MySQL. The project involved building a web application that allowed users to browse and purchase products, manage their accounts, and allowed administrators to manage orders and generate reports.
 
-My responsibilities in this project included developing the user authentication functionality, designing the product catalog pages using Django templates, implementing the shopping cart functionality using Django's session framework, and integrating with a payment gateway to allow users to make purchases.
+My responsibilities in this project included developing the user authentication functionality, designing the product catalog pages using Django templates, implementing the shopping cart functionality using Django's session framework, and integrating with a payment gateway demo to allow users to make purchases.
 
 I also worked on the order management features, which involved creating views and templates for administrators to view orders, update order status, and generate reports. I leveraged Django's built-in admin interface to provide an intuitive way for administrators to manage data stored in the MySQL database.
 
