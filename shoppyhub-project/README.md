@@ -6,7 +6,7 @@ Product catalog: The project would need to have a catalog of products for users 
 
 Shopping cart: The project would need to allow users to add items to a shopping cart and checkout when they are ready to make a purchase. The shopping cart would likely be implemented using Django's session framework, which can store information about the user's cart between requests.
 
-Payment gateway integration: The project would need to integrate with a payment gateway, such as PayPal or Stripe, to allow users to make purchases. Django has support for integrating with these payment gateways, and MySQL can be used to store information about transactions.
+Payment gateway integration: The project would need to integrate with a payment gateway, such as PayTM or PayPal or Stripe, to allow users to make purchases. Django has support for integrating with these payment gateways, and MySQL can be used to store information about transactions.
 
 Order management: The project would need to allow administrators to manage orders, including viewing orders, updating order status, and generating reports. This functionality would likely be implemented using Django's admin interface, which provides a convenient way to manage data stored in a MySQL database.
 
